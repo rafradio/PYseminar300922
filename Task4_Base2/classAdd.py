@@ -8,8 +8,7 @@ class InitSets:
 
 class ExecModule:
     def __init__(this):
-        this.myNumber = random.randrange(233, 234)
-        print(f"Десятичное число: {this.myNumber}")
+        this.myNumber = random.randrange(45, 46)
         this.base2 = ""
 
     def ConvertBase2(this):
